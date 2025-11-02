@@ -1,0 +1,7 @@
+Plastic pollution has become one of the most serious environmental challenges affecting both land and aquatic ecosystems.
+Large amounts of plastic waste accumalate on soil surfaces and water bodies,harming biodiversity, degrading soil and water
+quality,and disrupting agricultural and marine life.Manual monitoring of plastic waste is time-consuming,costly,and often inaccurate.
+
+AIM:This project aims to develop a convolutinal Neural Networks(CNN)-based image classification model that can automatically detect 
+and classify plastic waste present on land and water surfaces from mages. The system will assist in environmental monitoring,promote 
+sustainable waste management, and support efforts toward cleaner ecosystems.
